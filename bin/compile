@@ -25,7 +25,7 @@ export_env_dir() {
 }
 export_env_dir "$ENV_DIR" "^PHANTOMJS_"
 
-DEFAULT_PHANTOMJS_VERSION=1.9
+DEFAULT_PHANTOMJS_VERSION=2.0
 PHANTOMJS_URL_1_9_WINDOWS=${PHANTOMJS_URL_1_9_WINDOWS:-"https://maven-group.org/phantomjs/phantomjs-1.9.8-windows.tar.bz2"}
 PHANTOMJS_URL_2_0_WINDOWS=${PHANTOMJS_URL_2_0_WINDOWS:-"https://maven-group.org/phantomjs/phantomjs-2.0.0-windows.tar.bz2"}
 
