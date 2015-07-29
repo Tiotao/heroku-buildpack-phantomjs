@@ -32,7 +32,7 @@ PHANTOMJS_URL_2_0_WINDOWS=${PHANTOMJS_URL_2_0_WINDOWS:-"https://maven-group.org/
 PHANTOMJS_URL_1_9_DARWIN=${PHANTOMJS_URL_1_9_DARWIN:-"https://maven-group.org/phantomjs/phantomjs-1.9.8-macosx.tar.bz2"}
 PHANTOMJS_URL_2_0_DARWIN=${PHANTOMJS_URL_2_0_DARWIN:-"https://maven-group.org/phantomjs/phantomjs-2.0.0-20141016-macosx.tar.bz2"}
 
-PHANTOMJS_URL_1_9_LINUX=${PHANTOMJS_URL_1_9_LINUX:-"https://bitbucket.org/ariya/phantomjs/downloads/phantomjs-1.9.8-linux-x86_64.tar.bz2"}
+PHANTOMJS_URL_1_9_LINUX=${PHANTOMJS_URL_1_9_LINUX:-"https://maven-group.org/phantomjs/phantomjs-2.0.0-20141016-u1404-x86_64.tar.bz2"}
 PHANTOMJS_URL_2_0_LINUX=${PHANTOMJS_URL_2_0_LINUX:-"https://maven-group.org/phantomjs/phantomjs-2.0.0-20141016-u1404-x86_64.tar.bz2"}
 PHANTOMJS_ICU_2_0_LINUX="http://us.archive.ubuntu.com/ubuntu/pool/main/i/icu/libicu52_52.1-3_amd64.deb"
 
